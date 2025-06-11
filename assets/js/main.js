@@ -33,7 +33,7 @@
 
 	// Bar.
 	// Bar
-	var logoContent = $('#logo').length ? $('#logo').html() : '           VALBON Revolución';
+	var logoContent = $('#logo').length ? $('#logo').html() : ' ';
 
 	$(
 		'<div id="titleBar">' +
